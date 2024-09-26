@@ -1,4 +1,5 @@
 # github-demo
 This is my first Github repository
 <br>
-author - Ruchi Chandak
+author - Ruchi (apnacollege)
+
